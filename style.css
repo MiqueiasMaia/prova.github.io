@@ -1,0 +1,96 @@
+header{
+    background-color:rgb(149, 147, 151);
+    text-align: center;
+    border: 1px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.links{
+    display:flex; align-items: horizontal; justify-content: space-between;
+	position:relative;
+    margin-left: 15%;
+    margin-right:15%;
+}
+.how-it-works{
+    display:inline-block;
+
+}
+.texto{
+    float:left;
+    width:340px;
+    margin-left: 370px;
+    padding-top: 50px;
+    
+}
+.texto1{
+    float:left;
+    width:340px;
+    margin-left: 370px;
+    padding-top: 50px
+    
+}
+.imagem{
+    align-items: horizontal;
+    float:right;
+    width:240px;
+    margin-right: 300px;
+    padding-top: 50px;
+   
+}
+
+.login{
+    align-items: center;  
+}
+
+.img-icon{
+    border-radius: 70px;
+    height:150px;
+    width: 150px;
+}
+.texto-logo{
+    text-align: center;
+    background-color:rgb(150, 145, 155);
+}
+
+.links a{
+    text-decoration: none;
+    color: rgb(65, 62, 68);
+}
+#coluna_esquerda{
+    float:left;
+    width:250px;
+    margin-left: 370px;
+}
+#coluna_direita{
+    float:right;
+    width:240px;
+    margin-right: 300px;
+   
+}
+
+#about-us{
+    align-items: center;
+}
+.div5{
+    text-align: center;
+    margin-top: 60%;
+    margin-left:200px;
+    margin-right: 200px;
+    
+    
+}
+h1{
+    text-align: center;
+    color: rgb(81, 80, 82);
+
+}
+footer{
+    display: relative;
+    background-color:rgb(150, 145, 155);
+    margin-top: 10%;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -20px;
+}
